@@ -1,0 +1,102 @@
+nav{
+   z-index: 1111;
+}
+#pic{
+   max-width: 100%;
+   height: auto;
+}
+#pic  img{
+   width: 50%;
+   margin: auto;
+}
+.fast{
+   height: 370px;
+}
+span{
+   font-weight: 700;
+   font-size: 35px;
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   color: crimson;
+}
+i{
+   color: rgb(0, 2, 8);
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   font-size: 50px;
+   cursor: pointer;
+
+}
+i:hover{
+   color: blue;
+}
+h5{
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   font-size: 25px;
+   font-weight: 700;
+}
+.card{
+   margin: 0px 0px 20px 0px;
+   background-color: rgb(220, 213, 205);
+   width: 100%;
+   height: auto;
+   overflow: hidden;
+   box-shadow: 5px 5px 5px 2px black;
+   
+}
+.card:hover img{
+   transform: scaleY(1.05);
+   -webkit-transform: scaleY(1.05);
+   -moz-transform: scaleY(1.05);
+   -ms-transform: scaleY(1.05);
+   -o-transform: scaleY(1.05);
+}
+last{
+   height: 750px;
+   width: 400px;
+}
+img{
+   width: 75%;
+   height: 400px;
+   transition: 1s;
+   -webkit-transition: 1s;
+   -moz-transition: 1s;
+   -ms-transition: 1s;
+   -o-transition: 1s;
+}
+h2{
+   color: crimson;
+   text-align: center;
+   font-size: 50px;
+   padding: 100px 0px;
+}
+#carouselExampleControls{
+   /* background-color: aliceblue; */
+   width: 100%;
+   padding-top: 8rem;
+}
+pic{
+   width: 40%;
+   align-items: center;
+   justify-content: center;
+   display: block;
+}
+.wlc h1{
+   padding: 100px 0px;
+   text-align: center;
+   font-size: 70px;
+   color: rgb(255, 8, 57);
+   font-weight: 900;
+}
+del{
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   font-size: 25px;
+   font-weight: 700;
+   color: blueviolet;
+}
